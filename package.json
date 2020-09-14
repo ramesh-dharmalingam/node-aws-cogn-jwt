@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "dependencies": {
     "amazon-cognito-identity-js": "^3.2.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "prompt-sync": "^4.2.0"
   }
 }
